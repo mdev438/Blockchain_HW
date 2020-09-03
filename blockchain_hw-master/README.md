@@ -1,18 +1,4 @@
-# Blockchain
-
-## Create directory for blockchain network information
-
-1) Utilize the hd-wallet-derive or blockchain tools
-
-
-## Create Genesis Block
-1)  run puppeth *./puppeth*
-2) select name for the network (i.e networkapple)
-3) select option *2* for creating a new genesis block
-4) select option *1* to create new block
-5) Select option *2* for proof of authority 
-6) Create chain ID (i.e 335)
-
+# Blockchain Homework
 
 
 
